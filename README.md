@@ -16,5 +16,5 @@ This study explores information on Bitcoin (BTC-USD) to understand how the marke
 
 
 
-## Discussion  
+# Discussion  
 Bitcoin’s market behaviour demonstrates both promise and unpredictability therefore yearly returns are lucrative.
